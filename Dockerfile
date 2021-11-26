@@ -5,7 +5,6 @@ COPY nginx/nginx.conf /etc/nginx/nginx.conf
 COPY configure.sh /configure.sh
 COPY v2ray_config /
 RUN chmod +x /configure.sh
---dns 8.8.8.8
 
 ENTRYPOINT ["sh", "/configure.sh"]
 
