@@ -2,7 +2,7 @@
   "name": "IF-IID",
   "description": "IF-IID",
   "keywords": [
-    "IF IID LLC"
+    "If Dump"
   ],
   "env": {
     "PROTOCOL": {
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "",
-  "repository": "",
+  "website": "https://github.com/gerardomachadoi/fly",
+  "repository": "https://github.com/gerardomachadoi/fly",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
