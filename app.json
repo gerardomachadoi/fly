@@ -1,8 +1,8 @@
 {
-  "name": "IF-ID",
-  "description": "IF-ID",
+  "name": "IF-IID",
+  "description": "IF-IID",
   "keywords": [
-    "IF LLC"
+    "IF IDD LLC"
   ],
   "env": {
     "PROTOCOL": {
