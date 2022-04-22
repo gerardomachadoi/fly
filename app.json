@@ -1,8 +1,8 @@
 {
-  "name": "IF-IID",
-  "description": "IF-IID",
+  "name": "flyxtra xtra",
+  "description": "flyxtra xtra",
   "keywords": [
-    "If Dump"
+    "flyxtra xtra"
   ],
   "env": {
     "PROTOCOL": {
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/gerardomachadoi/fly",
-  "repository": "https://github.com/gerardomachadoi/fly",
+  "website": "https://www.github.com",
+  "repository": "https://github.com/flyxtra/flyxtra",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
